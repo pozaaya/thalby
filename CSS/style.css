@@ -1,0 +1,291 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+  }
+  
+    ul {
+        list-style: none;
+    }
+  
+
+  a, button {
+    cursor: pointer;
+  }
+  
+  button {
+    border: none;
+  }
+
+   /*  HEADER START */
+
+
+    .header {
+        padding: 16px 0;
+    }
+    
+    .container {
+        max-width: 1088px;
+        margin: auto;
+        padding: 0 16px;
+    }
+    
+    .header__container {
+        display: flex;
+        align-items: center;
+    }
+    
+ 
+    .nav {
+        max-height: 40px;
+        width: 100%;
+        margin-right: 90px;
+        max-width: 423px;
+    
+    }
+  
+    .nav__list {
+        display: flex;
+        justify-content: space-between;
+        gap: 28px;
+    }
+    
+    .nav li {
+        font-weight: 700;
+        color:#1C1B1B;
+    }
+    
+
+    .logo {
+        margin-right: 24vw;
+
+    }
+    
+    .header__icons-wrapper {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        margin-left: auto
+    }
+
+  /*  HEADER END */
+  
+
+  /*  INTRODUCTION START */
+
+    .introduction {
+        background: #F0EFEB;
+    }
+    
+    .introduction__text-block {
+        max-width: 525px;
+        padding: 90px 0;
+        
+    }
+  
+    .introduction__container {
+        display: flex;
+        justify-content:space-between;
+    }
+  
+  .introduction__title {
+    font-size: 60px;
+    margin-bottom: 42px;
+    line-height: 70px;
+   
+  }
+  
+  .introduction__text {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 26px;
+  }
+  
+
+  .introduction__button {
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: 8px 23px;
+    border-radius: 100px;
+    font-size: 17px;
+    line-height: 20px;
+  }
+
+   /*  INTRODUCTION END */
+
+
+    /*  PEOPLEANDSOICETY START */
+
+  .people {
+    background: #F0F0F0;
+    max-height: 652px;
+    padding-top: 75.95px;
+    padding-bottom: 50.92px; 
+
+  }
+
+  .people__container {
+    display: flex;
+    justify-content:start;
+    
+  
+    
+}
+
+
+    .people__img{
+    margin-left: 50px;
+    }
+
+
+    .people__title{
+
+    font-size: 36px;
+    margin-bottom: 31px;
+    line-height: 42.19px;
+    margin-top: 62.92px; 
+    margin-left: 50px;
+
+    }
+
+
+    .people__text{ 
+    margin-left: 50px;
+    font-size: 36px;
+    line-height: 42.19px;
+    max-width: 498px;
+    max-height: 252px;
+    margin-bottom: 40px;
+
+
+    }
+
+
+    .people__button{
+        margin-left: 50px;
+        text-decoration: underline;
+        font-size: 17px;
+        font-weight: 700;
+        line-height: 19.92px;
+    }
+
+ /*  PEOPLEANDSOICETY END */
+
+
+ /*  CILTUREANDHERITAGE START */
+
+    .culture {
+        max-height: 652px;
+        background-color: #E0E0E0;
+        padding-top: 76.08px;
+        padding-bottom: 50.08px; 
+    }
+
+
+    .culture__container{
+        display: flex;
+        justify-content:end;
+
+    }
+
+
+
+    .culture__title{
+        margin-top: 91.95px;
+        margin-right: 50px;
+        font-size: 36px;
+        line-height: 42.19px;
+        text-align: right;
+
+
+    }
+
+        .culture__text{
+        margin-right: 50px;
+        font-size: 36px;
+        margin-top: 31px;
+        line-height: 42.19px;
+        text-align: right;
+        width: 513px;
+
+        }
+
+    .culture__button{
+        text-align: right;
+        text-decoration: underline;
+        margin-left: 350px;
+        font-size: 17px;
+        font-weight: 700;
+        line-height: 19.92px;
+        margin-top: 31px;
+        background-color:  #E0E0E0;
+    
+
+
+    }
+
+
+ /*  CILTUREANDHERITAGE END */
+
+
+ /*  POWERANDPOLITICS START */
+
+    .power {
+        background: #F0F0F0;
+        max-height: 652px;
+        padding-top: 76.2px;
+        padding-bottom: 50.67px; 
+
+    }
+
+    .power__container {
+        display: flex;
+        justify-content:start;
+        
+
+        
+    }
+
+
+        .power__img{
+            margin-left: 50px;
+        }
+
+
+        .power__title{
+
+        font-size: 36px;
+        margin-bottom: 31px;
+        line-height: 42.19px;
+        margin-top: 91.08px; 
+        margin-left: 50px;
+
+
+        }
+        
+        
+        .power__text{
+        margin-left: 50px;
+        font-size: 36px;
+        line-height: 42.19px;
+        max-width: 530px;
+        max-height: 210px;
+        margin-bottom: 39px;
+
+        
+        }
+        
+        
+        .power__button{
+            margin-left: 50px;
+            text-decoration: underline;
+            font-size: 17px;
+            font-weight: 700;
+            line-height: 19.92px;
+        
+            
+        }
+
+ /*  POWERANDPOLITICS END */
+ 
