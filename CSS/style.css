@@ -289,3 +289,295 @@
 
  /*  POWERANDPOLITICS END */
  
+ .guardes{
+    background: #ffffff;
+ }
+
+ .guides__title1{
+    margin-top: 189.67px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42.19px;
+
+
+ }
+ .guides__title2{
+    margin-top: 1px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42.19px;
+ }
+
+ .circles__container1{
+    max-width: 1088px;
+    margin-top: 69.33px;
+    display: flex;
+    justify-content:center;
+    gap: 24px;
+ }
+
+ .circle1{
+    display: block;
+    justify-content: center;
+    min-width: 336.66px;
+    
+ }
+
+ .circle1__1{
+    margin: auto;
+background-color:rgba(33, 247, 236, 1);
+width: 70px;
+height: 70px;
+border-radius: 35px;
+justify-content: center;
+
+
+
+    
+ }
+
+ .text__circle1{
+    margin-top: 26px;
+  
+font-size: 30px;
+font-weight: 700;
+line-height: 35.16px;
+text-align: center;
+
+ }
+
+ 
+ .text1__circle1{
+    margin-top: 1px;
+   
+font-size: 30px;
+font-weight: 700;
+line-height: 35.16px;
+text-align: center;
+
+ }
+
+
+ .circle2{
+    display: block;
+    justify-content: center;
+    min-width: 336.66px;
+    
+ }
+ .circle2__2{
+margin: auto;
+background-color: rgba(51, 211, 188, 1);
+width: 70px;
+height: 70px;
+border-radius: 35px;
+justify-content: center;
+
+
+
+    
+ }
+
+ .text__circle2{
+    margin-top: 26px;
+   
+font-size: 30px;
+font-weight: 700;
+line-height: 35.16px;
+text-align: center;
+
+ }
+
+ 
+ .text1__circle2{
+    margin-top: 1px;
+ 
+font-size: 30px;
+font-weight: 700;
+line-height: 35.16px;
+text-align: center;
+
+ }
+
+ .circle3{
+    display: block;
+    justify-content: center;
+    min-width: 336.66px;
+    
+ }
+ 
+ .circle3__3{
+    margin: auto;
+    background-color: rgba(24, 165, 198, 1);
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    justify-content: center;
+    
+    
+    
+        
+     }
+    
+     .text__circle3{
+        margin-top: 26px;
+       
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: center;
+    
+     }
+    
+     
+     .text1__circle3{
+        margin-top: 1px;
+      
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: center;
+    
+     }
+    
+
+
+
+
+
+
+
+     .circles__container2{
+        max-width: 1088px;
+        margin-top: 69.33px;
+        display: flex;
+        justify-content:center;
+        gap: 24px;
+        margin-bottom: 52px;
+     }
+    
+     .circle4{
+        display: block;
+        justify-content: center;
+        min-width: 336.66px;
+        
+     }
+    
+     .circle4__4{
+        margin: auto;
+    background-color:rgba(211, 143, 98, 1);
+
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    justify-content: center;
+    
+    
+    
+        
+     }
+    
+     .text__circle4{
+        margin-top: 26px;
+      
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: center;
+    
+     }
+    
+     
+     .text1__circle4{
+        margin-top: 1px;
+       
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: center;
+    
+     }
+    
+    
+     .circle5{
+        display: block;
+        justify-content: center;
+        min-width: 336.66px;
+        
+     }
+     .circle5__5{
+    margin: auto;
+    background-color: rgba(249, 76, 67, 1);
+
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    justify-content: center;
+    
+    
+    
+        
+     }
+    
+     .text__circle5{
+        margin-top: 26px;
+       
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: center;
+    
+     }
+    
+     
+     .text1__circle5{
+        margin-top: 1px;
+     
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: center;
+    
+     }
+    
+     .circle6{
+        display: block;
+        justify-content: center;
+        min-width: 336.66px;
+        
+     }
+     
+     .circle6__6{
+        margin: auto;
+        background-color: rgba(211, 153, 255, 1);
+        width: 70px;
+        height: 70px;
+        border-radius: 35px;
+        justify-content: center;
+        
+        
+        
+            
+         }
+        
+         .text__circle6{
+            margin-top: 26px;
+           
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 35.16px;
+        text-align: center;
+        
+         }
+        
+         
+         .text1__circle6{
+            margin-top: 1px;
+          
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 35.16px;
+        text-align: center;
+        
+         }
