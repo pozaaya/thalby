@@ -313,9 +313,10 @@ button {
 }
 
 .circle {
-    display: block;
+
     justify-content: center;
     min-width: 336.66px;
+    
 
 }
 
