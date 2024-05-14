@@ -290,6 +290,8 @@ button {
 
 /*  POWERANDPOLITICS END */
 
+/*  GUIDES START */
+
 .guardes {
     background: #ffffff;
 }
@@ -448,3 +450,123 @@ button {
 
 
 }
+
+
+.guides{
+    background: #ffffff;
+   
+    
+
+}
+
+.guides__container{
+   
+    justify-content: center;
+    align-items: center;
+ 
+  
+}
+
+
+.guides__title{
+   
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42.19px;
+    margin-top: 59.81px;
+  
+
+
+}
+
+
+.guides__text {
+
+        max-width: 650px;
+        text-align: center;
+        margin: 0 auto;
+   
+    
+  
+}
+
+.guides__text-block{
+  
+font-size: 20px;
+
+line-height: 23.44px;
+margin-top: 26.69px;
+
+
+}
+
+
+.guides__text__ebooks{
+  
+font-size: 20px;
+
+line-height: 23.44px;
+margin-top:47px;
+
+
+
+}
+
+.guides__sellers{
+    margin-top: 87px;
+    margin-bottom: 189px;
+}
+
+.sellers__title{
+
+font-size: 36px;
+
+line-height: 42.19px;
+text-align: center;
+margin-bottom: 51.69px;
+
+}
+
+
+.sellers__items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 62.66px;
+    
+   
+}
+
+
+
+.text__name{
+ 
+font-size: 17px;
+font-weight: 700;
+line-height: 19.92px;
+margin-top: 27px;
+
+}
+
+.text__cost{
+    margin-top: 17px;
+    font-size: 17px;
+
+    line-height: 19.92px;
+  margin-bottom: 10.19px;
+    
+
+}
+
+.link__add{
+ 
+font-size: 17px;
+font-weight: 700;
+line-height: 19.92px;
+color: #000000;
+
+
+}
+
+/*  GUIDES END */
